@@ -4,3 +4,4 @@
 - 1-compiler: compiles the C file stored in $CFILE without linking, and saves the output in a file with the same name but with the .o extension.
 - 2-assembler: generates the assembly code of the C file stored in $CFILE and saves it in a file with the same name but with the .s extension.
 - 3-name: compiles the C file stored in $CFILE and creates an executable named cisfun.
+- 4-puts.c: C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line, using puts.
