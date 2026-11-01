@@ -5,3 +5,5 @@
 - 2-assembler: generates the assembly code of the C file stored in $CFILE and saves it in a file with the same name but with the .s extension.
 - 3-name: compiles the C file stored in $CFILE and creates an executable named cisfun.
 - 4-puts.c: C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line, using puts.
+- 5-printf.c: C program that prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line, using printf.
+- 5-printf.c: C program that prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line, using printf.
