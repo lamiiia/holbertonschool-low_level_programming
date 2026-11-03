@@ -5,3 +5,4 @@
 - 3-islower.c: function that checks for lowercase character (prototype: int _islower(int c);).
 - 4-isalpha.c: function that checks for alphabetic character (prototype: int _isalpha(int c);).
 - 5-sign.c: function that prints the sign of a number (prototype: int print_sign(int n);).
+- 6-abs.c: function that computes the absolute value of an integer (prototype: int _abs(int);).
