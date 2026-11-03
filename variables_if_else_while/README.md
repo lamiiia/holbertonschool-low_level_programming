@@ -9,3 +9,4 @@
 - 6-print_numberz.c: C program that prints all single digit numbers of base 10 starting from 0, followed by a new line, using only putchar and no char variable.
 - 7-print_tebahpla.c: C program that prints the lowercase alphabet in reverse, followed by a new line, using only putchar.
 - 8-print_base16.c: C program that prints all the numbers of base 16 in lowercase, followed by a new line, using only putchar.
+- 9-print_comb.c: C program that prints all possible combinations of single-digit numbers, separated by a comma and a space, in ascending order.
