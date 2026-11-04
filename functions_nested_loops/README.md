@@ -11,3 +11,4 @@
 - 8-24_hours.c: function that prints every minute of the day of Jack Bauer, from 00:00 to 23:59 (prototype: void jack_bauer(void);).
 - 9-times_table.c: function that prints the 9 times table, starting with 0 (prototype: void times_table(void);).
 - 10-add.c: function that adds two integers and returns the result (prototype: int add(int, int);).
+- 11-print_to_98.c: function that prints all integers from n to 98, followed by a new line (prototype: void print_to_98(int n);).
