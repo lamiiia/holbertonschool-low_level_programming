@@ -8,3 +8,4 @@
 - 6-print_line.c: function that draws a straight line in the terminal (prototype: void print_line(int n);).
 - 7-print_diagonal.c: function that draws a diagonal line on the terminal (prototype: void print_diagonal(int n);).
 - 8-print_square.c: function that prints a square, followed by a new line (prototype: void print_square(int size);).
+- 9-fizz_buzz.c: program that prints the numbers from 1 to 100, followed by a new line, with Fizz for multiples of three, Buzz for multiples of five and FizzBuzz for multiples of both.
