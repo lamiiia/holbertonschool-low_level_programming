@@ -11,3 +11,4 @@
 - 9-fizz_buzz.c: program that prints the numbers from 1 to 100, followed by a new line, with Fizz for multiples of three, Buzz for multiples of five and FizzBuzz for multiples of both.
 - 10-print_triangle.c: function that prints a triangle, followed by a new line (prototype: void print_triangle(int size);).
 - 100-prime_factor.c: program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+- 101-print_number.c: function that prints an integer (prototype: void print_number(int n);).
