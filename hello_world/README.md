@@ -9,3 +9,4 @@
 - 5-printf.c: C program that prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line, using printf.
 - 6-size.c: C program that prints the size of various types (char, int, long int, long long int, float) on the computer it is compiled and run on.
 - 100-intel: generates the assembly code (Intel syntax) of the C file stored in $CFILE and saves it in a file with the same name but with the .s extension.
+- 101-quote.c: C program that prints exactly "and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error, using write.
