@@ -9,3 +9,4 @@
 - 7-print_last_digit.c: function that prints the last digit of a number (prototype: int print_last_digit(int);).
 - 7-print_last_digit.c: function that prints the last digit of a number (prototype: int print_last_digit(int);).
 - 8-24_hours.c: function that prints every minute of the day of Jack Bauer, from 00:00 to 23:59 (prototype: void jack_bauer(void);).
+- 9-times_table.c: function that prints the 9 times table, starting with 0 (prototype: void times_table(void);).
