@@ -6,3 +6,4 @@
 - 4-print_most_numbers.c: function that prints the numbers from 0 to 9 except 2 and 4, followed by a new line (prototype: void print_most_numbers(void);).
 - 5-more_numbers.c: function that prints 10 times the numbers from 0 to 14, followed by a new line (prototype: void more_numbers(void);).
 - 6-print_line.c: function that draws a straight line in the terminal (prototype: void print_line(int n);).
+- 7-print_diagonal.c: function that draws a diagonal line on the terminal (prototype: void print_diagonal(int n);).
