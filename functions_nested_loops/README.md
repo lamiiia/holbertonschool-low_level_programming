@@ -14,3 +14,4 @@
 - 11-print_to_98.c: function that prints all integers from n to 98, followed by a new line (prototype: void print_to_98(int n);).
 - 101-natural.c: program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
 - 102-fibonacci.c: program that prints the first 50 Fibonacci numbers, starting with 1 and 2, separated by a comma and a space, followed by a new line.
+- 103-fibonacci.c: program that finds and prints the sum of the even-valued terms of the Fibonacci sequence that do not exceed 4000000, followed by a new line.
