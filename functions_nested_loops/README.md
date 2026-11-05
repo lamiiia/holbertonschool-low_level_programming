@@ -12,3 +12,4 @@
 - 9-times_table.c: function that prints the 9 times table, starting with 0 (prototype: void times_table(void);).
 - 10-add.c: function that adds two integers and returns the result (prototype: int add(int, int);).
 - 11-print_to_98.c: function that prints all integers from n to 98, followed by a new line (prototype: void print_to_98(int n);).
+- 101-natural.c: program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
