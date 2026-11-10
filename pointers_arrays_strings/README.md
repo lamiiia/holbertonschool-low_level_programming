@@ -20,3 +20,4 @@
 - 6-cap_string.c: function that capitalizes all words of a string.
 - 7-leet.c: function that encodes a string into 1337.
 - 0-memset.c: function that fills memory with a constant byte.
+- 1-memcpy.c: function that copies memory area.
