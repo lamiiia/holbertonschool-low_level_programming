@@ -15,3 +15,4 @@
 - 1-strncat.c: function that concatenates two strings using at most n bytes from src.
 - 2-strncpy.c: function that copies a string, using at most n bytes from src.
 - 3-strcmp.c: function that compares two strings.
+- 4-rev_array.c: function that reverses the content of an array of integers.
